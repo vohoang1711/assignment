@@ -1,6 +1,0 @@
-version: '3'
-services:
-  nginx:
-    image: hoangvtn/ci-cd-assignment:v1
-    ports:
-      - "80:80"
